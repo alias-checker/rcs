@@ -1,0 +1,12 @@
+*Release+Asserts/
+*Debug+Asserts/
+*Release/
+*Debug/
+autoconf/aclocal.m4
+autoconf/autom4te.cache
+Makefile.common
+*.swp
+config.log
+config.status
+cscope.files
+cscope.out
