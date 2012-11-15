@@ -1,0 +1,10 @@
+Build LLVM
+==========
+Build LLVM 3.0/3.1 and clang 3.0/3.1 from source code
+Add to PATH the bin folder under LLVM's installation directory
+
+Build RCS Common Utilities
+==========================
+./configure --prefix=`llvm-config --prefix`
+make
+make install
